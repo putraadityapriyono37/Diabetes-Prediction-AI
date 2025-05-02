@@ -2,7 +2,7 @@
 ## Overview
 - Dataset: [Diabetes Prediction Dataset (Kaggle)](https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset)
 - Metode: Regresi Logistik, Random Forest, XGBoost
-- Demo: [Google Colab Link](https://colab.research.google.com/drive/...)
+- Demo: [Google Colab Link](https://colab.research.google.com/drive/11FHqe07bvNaNRV-0n20o2Q6-XXkxEH2R?usp=sharing)
 
 ## Features
 - Gender, Age, Hypertension, Heart Disease, Smoking History, BMI, HbA1c Level, Blood Glucose Level
